@@ -10,7 +10,7 @@ function App() {
           <h3>Controlled Form</h3>
           <form>
             <label htmlFor="text" className="form-label">
-              Example textarea
+              Example textare
             </label>
             <textarea className="form-control" id="text" rows="3" name="text"></textarea>
             <label className="form-check-label" htmlFor="radio">
